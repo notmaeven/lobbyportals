@@ -1,0 +1,4 @@
+name: LobbyPortals
+version: '0.1.0'
+main: maeven.lobbyportals.LobbyPortals
+api-version: 1.19

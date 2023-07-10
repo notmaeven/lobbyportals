@@ -1,0 +1,14 @@
+#spawn, used to teleport players away from the portal
+spawn: 0.0,0.0,0.0
+# all portals that will be placed in your lobby
+# format: server,doubleX,doubleY,doubleZ;
+# -> server: server the portal is leading to
+# -> doubleX..Z: portal location coordinates
+#
+# multiple portals are created as follows:
+# -> server1,x1,y1,z1;server2,x2,y2,z2;...
+#
+# a server may have more than one portal leading to it.
+portals: server,0.0,0.0,0.0;
+#player detection radius
+portalRange: 2.5

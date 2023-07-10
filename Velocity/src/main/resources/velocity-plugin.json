@@ -1,0 +1,9 @@
+{
+  "id": "lobbyportals-core",
+  "name": "LobbyPortals Core",
+  "version": "0.1.0",
+  "description": "Velocity Core for LobbyPortals",
+  "authors": ["maeven"],
+  "dependencies": [],
+  "main": "maeven.lobbyportals.LobbyPortals"
+}
