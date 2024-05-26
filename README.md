@@ -6,5 +6,5 @@ Tested versions: 1.19.x, 1.20.0 - 1.20.4 (1.20.5+ untested yet, use at own risk)
 
 # Setup
 Add 'LobbyPortals-Core.jar' to the proxy and 'LobbyPortals.jar' to the lobby server.
-Afterwards, edit the config in your lobby server's plugin folder. Instructions are found inside the config file.
+Afterwards, edit the config in your lobby server's plugin folder. Instructions are found in the config file.
 
